@@ -5,7 +5,7 @@ table{
     margin-top: 220px;
     width: 90%;
     font-size: 20px;
-    background-color:#19A7CE;
+    background-color:#0766AD;
 }
 
 th{
@@ -28,8 +28,8 @@ td{
     background-color:#62CDFF;
 }
 .rooms{
-    background-color: #05BFDB;
+    background-color: #3081D0;
 }
 .blank{
-    background-color: #19A7CE;
+    background-color: #0766AD;
 }
